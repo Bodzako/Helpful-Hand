@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobi2021</string>
+    <string name="tracking_enabled_notif">Tracking is currently enabled. Tap to cancel.</string>
+    <!--<string name="email">test@test.com</string>
+    <string name="password">testpassword</string>
+    <string name="firebase_path">location</string>-->
+</resources>
